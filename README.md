@@ -320,7 +320,7 @@ Per-class report recorded in the notebook:
 | 0 (Recovered) | 0.83 | 0.80 | 0.81 | 44 |
 | 1 (Adverse) | 0.50 | 0.56 | 0.53 | 16 |
 
-![ROC curve](images/roc_curve.jpg)
+![ROC curve](roc_curve.jpg)
 
 **Cross-validation (reported in the project report)**: 5-fold stratified CV on all 200 patients.
 
