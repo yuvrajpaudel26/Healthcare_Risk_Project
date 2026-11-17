@@ -65,7 +65,7 @@ Hospital data is typically split across separate tables or sheets, risk is judge
 - 🤖 **Predict Risk tab**: four inputs → predicted class, estimated adverse-outcome probability and a gauge chart.
 - 📂 **Optional CSV upload** in the sidebar (patients and labs) to replace the default files.
 - 🗄️ **SQL script** with schema and 7 analytical queries.
-- 🎨 Custom dark-blue Streamlit theme ([`.streamlit/config.toml`](.streamlit/config.toml)).
+- 🎨 Custom dark-blue Streamlit theme.
 
 ## 6. Technologies and Tools Used
 
@@ -356,10 +356,10 @@ Consequences:
 
 Recommended layout. It works with the code **unchanged** because the apps read `patients.csv`, `labs.csv` and `Risk_model1.joblib` from their own folder.
 
-```text
+
 healthcare-risk-stratification/
 ├── README.md
-├── LICENSE                          # add (see Section 26)
+├── LICENSE                          
 ├── requirements.txt
 ├── .gitignore
 ├── .streamlit/
@@ -376,10 +376,9 @@ healthcare-risk-stratification/
 │   └── healthcare_query.sql
 ├── docs/
 │   └── Healthcare_Risk_Analytics_Project_Report.pdf
-└── images/                          # screenshots used in this README
+└── images/                          
 ```
 
-`patients2.csv` is byte-for-byte identical to `patients.csv`, so leave it out of the repository.
 
 ## 18. Installation and Setup Requirements
 
