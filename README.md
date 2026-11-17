@@ -485,13 +485,13 @@ matplotlib>=3.8
 4. **👥 Patient Explorer**: search by name or ID and download the filtered table.
 5. **🤖 Predict Risk**: enter Age, Length of stay, Treatment cost and Abnormal lab count, then click **Predict Risk**.
 
-![Predict Risk](images/predict_risk.jpg)
+![Predict Risk](predict_risk.jpg)
 
 Example (from the report and verified): Age 45, stay 5 days, cost ₹5,000, 1 abnormal lab → **RECOVERY** predicted, estimated adverse-outcome probability **38.7%**.
 
 | | |
 |---|---|
-| ![Patient Explorer](images/patient_explorer.jpg) | ![Lab distribution](images/lab_distribution.jpg) |
+| ![Patient Explorer](patient_explorer.jpg) | ![Lab distribution](lab_distribution.jpg) |
 
 ## 22. Results and Observations
 
