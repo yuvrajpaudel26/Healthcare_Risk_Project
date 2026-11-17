@@ -20,36 +20,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-1. [Project Title and Introduction](#1-project-title-and-introduction)
-2. [Project Overview](#2-project-overview)
-3. [Problem Statement](#3-problem-statement)
-4. [Project Objectives](#4-project-objectives)
-5. [Key Features](#5-key-features)
-6. [Technologies and Tools Used](#6-technologies-and-tools-used)
-7. [Project Architecture / Workflow](#7-project-architecture--workflow)
-8. [Dataset Description](#8-dataset-description)
-9. [Data Preprocessing and Cleaning](#9-data-preprocessing-and-cleaning)
-10. [Exploratory Data Analysis (EDA)](#10-exploratory-data-analysis-eda)
-11. [SQL Implementation and Important Queries](#11-sql-implementation-and-important-queries)
-12. [Machine Learning Methodology](#12-machine-learning-methodology)
-13. [Algorithms Used and Their Purpose](#13-algorithms-used-and-their-purpose)
-14. [Model Training and Testing](#14-model-training-and-testing)
-15. [Model Evaluation Metrics and Actual Results](#15-model-evaluation-metrics-and-actual-results)
-16. [Healthcare Risk Stratification Methodology](#16-healthcare-risk-stratification-methodology)
-17. [Project Folder Structure](#17-project-folder-structure)
-18. [Installation and Setup Requirements](#18-installation-and-setup-requirements)
-19. [Run the Project Locally (VS Code + PowerShell)](#19-step-by-step-run-the-project-locally-using-vs-code)
-20. [Python Dependencies and requirements.txt](#20-python-dependencies-and-requirementstxt)
-21. [How to Use the Project](#21-how-to-use-the-project)
-22. [Results and Observations](#22-results-and-observations)
-23. [Limitations and Future Enhancements](#23-limitations-and-future-enhancements)
-24. [Learning Outcomes](#24-learning-outcomes)
-25. [Author / Developer Information](#25-author--developer-information)
-26. [License](#26-license)
-
----
 
 ## 1. Project Title and Introduction
 
