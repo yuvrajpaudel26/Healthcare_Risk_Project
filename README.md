@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/SQL-MySQL%20dialect-4479A1?logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Synthetic-lightgrey)
-![License](https://img.shields.io/badge/License-TO%20BE%20ADDED-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
@@ -392,8 +392,8 @@ healthcare-risk-stratification/
 **1. Clone the repository** (PowerShell):
 
 ```powershell
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/yuvrajpaudel26/Healthcare_Risk_Project
+cd Healthcare_Risk_Project
 code .
 ```
 
@@ -537,11 +537,15 @@ Example (from the report and verified): Age 45, stay 5 days, cost ₹5,000, 1 ab
 | **LinkedIn** | `(https://www.linkedin.com/in/yuvrajpaudel26/)` |
 | **Email** | yuvrajpaudel2002@gmail.com` |
 
+If you found this project useful, feel free to ⭐ the repository.
+
 
 
 ## 26. License
 
-No license was supplied with the project, so **none is declared here**. For a public portfolio repository the **MIT License** is a common, permissive choice; **Apache-2.0** is an alternative that adds an explicit patent grant. Add a `LICENSE` file (GitHub: *Add file → Create new file → `LICENSE` → Choose a license template*) and update the badge at the top. If the project was submitted to your institute, check its policy first. Without a license, others have no legal right to reuse the code.
+This project is licensed under the [MIT License](LICENSE).
+
+The dataset is synthetic and included for educational purposes only.
 
 ---
 
