@@ -205,7 +205,7 @@ EDA is performed interactively in the dashboard. Computed facts from the shipped
 
 | | |
 |---|---|
-| ![KPIs](images/dashboard_kpis.jpg) | ![Filters](images/dashboard_filters.jpg) |
+| ![KPIs](dashboard_kpis.jpg) | ![Filters](images/dashboard_filters.jpg) |
 | ![Overview](images/overview_risk_outcomes.jpg) | ![Cost and age](images/overview_cost_age.jpg) |
 | ![Stay vs cost](images/overview_stay_vs_cost.jpg) | ![Diagnosis charts](images/diagnosis_charts.jpg) |
 
