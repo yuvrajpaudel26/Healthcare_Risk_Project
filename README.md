@@ -531,11 +531,11 @@ Example (from the report and verified): Age 45, stay 5 days, cost ₹5,000, 1 ab
 
 | | |
 |---|---|
-| **Name** | `Yuvraj Paudel` |
+| **Name** | Yuvraj Paudel |
 | **Programme** | MCA, Jagan Institute of Management Studies, Delhi |
-| **GitHub** | `https://github.com/yuvrajpaudel26` |
-| **LinkedIn** | `(https://www.linkedin.com/in/yuvrajpaudel26/)` |
-| **Email** | yuvrajpaudel2002@gmail.com` |
+| **GitHub** | https://github.com/yuvrajpaudel26 |
+| **LinkedIn** | https://www.linkedin.com/in/yuvrajpaudel26/ |
+| **Email** | yuvrajpaudel2002@gmail.com |
 
 If you found this project useful, feel free to ⭐ the repository.
 
