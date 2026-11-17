@@ -565,7 +565,7 @@ Example (from the report and verified): Age 45, stay 5 days, cost ₹5,000, 1 ab
 | **Name** | `Yuvraj Paudel` |
 | **Programme** | MCA, Jagan Institute of Management Studies, Delhi |
 | **GitHub** | `https://github.com/yuvrajpaudel26` |
-| **LinkedIn** | `[<your LinkedIn URL>](https://www.linkedin.com/in/yuvrajpaudel26/)` |
+| **LinkedIn** | `(https://www.linkedin.com/in/yuvrajpaudel26/)` |
 | **Email** | yuvrajpaudel2002@gmail.com` |
 
 **References** (full list in the project report): Rajkomar et al. 2018; Churpek et al. 2016; Weng et al. 2017; Kansagara et al. 2011; Mortazavi et al. 2016; Alaa et al. 2019; Desautels et al. 2016; Shickel et al. 2018; plus the Streamlit, scikit-learn, pandas, Plotly and joblib documentation.
