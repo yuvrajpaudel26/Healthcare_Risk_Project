@@ -29,7 +29,7 @@
 - **pandas** data preparation and **scikit-learn** modelling, and
 - a **Streamlit + Plotly** dashboard with filters, KPIs, a patient explorer and a single-patient prediction page.
 
-The project was developed as a Minor Project for MCA Semester III at Jagan Institute of Management Studies, Delhi (per the project report). The report's own title is *"Healthcare Risk Analytics: Hospital Records Analysis and Patient Risk Prediction."*
+The project was developed as a Minor Project for MCA Semester III at Jagan Institute of Management Studies, Delhi. The report's own title is *"Healthcare Risk Analytics: Hospital Records Analysis and Patient Risk Prediction."*
 
 ## 2. Project Overview
 
